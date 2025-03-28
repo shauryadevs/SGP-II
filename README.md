@@ -6,7 +6,9 @@ TODO List Web Application with the following features:
 - Functionality for adding todo tasks, marking tasks as complete, deleting tasks, etc
 - Database synchronization using the save button
 
+
 ----
+
 Made by:
-Shaurya Juneja (23CS028)
-Om Jadiya (23CS026)
+1. Shaurya Juneja (23CS028)
+2. Om Jadiya (23CS026)
