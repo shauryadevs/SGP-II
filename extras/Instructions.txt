@@ -1,0 +1,14 @@
+Prerequisites:
+1. Install PHP (cmd) and MySQL Workbench.
+2. Setup local connection using root username and password.
+3. Run the SQL commands from the file "create_database.sql" to actually setup the database with correct tables and schema in MySQL Workbench.
+
+Steps to run:
+1. Start up SQL Workbench and connect to the server instance.
+2. Open command line and cd to the project's root directory.
+3. Run the command: "php -S localhost:4000".
+4. Open browser and go to localhost:4000 and ensure the website and the DB is running.
+
+Made by:
+Shaurya Juneja (23CS028)
+Om Jadiya (23CS026)
